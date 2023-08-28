@@ -1,5 +1,5 @@
 ## Welcome
-This project wil be a longterm project for platform FiveM by CFX, it wil be a tarkov inspired survival server PvP.
+This project wil be a longterm project for platform FiveM, it wil be a tarkov inspired survival server PvP.
 
 ## Features.
 * PvP
